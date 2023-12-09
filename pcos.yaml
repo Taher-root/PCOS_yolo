@@ -1,0 +1,9 @@
+path: E:\\Documents\\yolo\\pcos\\data
+train: images\\train
+val: images\\train
+test: images\\test 
+
+#Classes
+names:
+  0: notinfected
+  1: infected
